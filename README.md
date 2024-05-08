@@ -5,6 +5,7 @@ Mayın Tarlası Oyunu
 Bu proje, Java dilinde geliştirilmiş bir Mayın Tarlası oyununu içermektedir. Oyun metin tabanlı olarak çalışır ve çift boyutlu diziler kullanılarak tasarlanmıştır. Oyunun amacı, tüm mayınsız kutucukları açarak oyunu kazanmaktır.
 
 OYUN KURALLARI 
+
 -Oyun başladığında, kullanıcıdan matris boyutu (satır ve sütun sayısı) istenecektir. Minimum boyut 2x2 olmalıdır. Girilen boyut, oyun alanının oluşturulmasında kullanılacaktır.
 -Matris oluşturulduktan sonra, matrisin çeyreği kadar rastgele mayın yerleştirilecektir.
 -Kullanıcı matris üzerinde bir nokta seçmelidir. Bunun için satır ve sütun değerleri istenecektir.
